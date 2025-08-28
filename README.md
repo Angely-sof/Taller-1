@@ -74,6 +74,21 @@ taller/
  ├── horoscopo.cpp
  
  └── validacion_hora.cpp
+
+ ### Intrucciones de ejecución
  
+ 1- Tener instalado un compilador g++ como MinGW-w64 (se puede validar la versión con: g++ --version)
+ 
+ 2- Abrir la carpeta donde esta el archivo .cpp (administrador de archivos de windows)
+
+3- en la ruta de la carpeta, escribir cmd y enter.
+
+4- en cmd, escribir y ejecutar: 
+g++ calculadora.cpp -o programa.exe
+(compilar el código en un .exe llamado programa)
+
+5- en cmd, escribir y ejecutar:
+.\programa.exe
+(ejecutar el programa)
 
 
