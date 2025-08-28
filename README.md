@@ -84,7 +84,7 @@ taller/
 3- en la ruta de la carpeta, escribir cmd y enter.
 
 4- en cmd, escribir y ejecutar: 
-g++ calculadora.cpp -o programa.exe
+g++ calculadora.cpp -o programa.exe (tomando de ejemplo calculadora.cpp)
 (compilar el código en un .exe llamado programa)
 
 5- en cmd, escribir y ejecutar:
